@@ -1,4 +1,4 @@
-#  Voteblock — Blockchain Voting System
+# Hashvote — Blockchain Voting System
 
 A secure, tamper-proof voting application built with Python, implementing a custom blockchain with SHA-256 hashing, proof-of-work consensus, and a Tkinter-based GUI.
 
